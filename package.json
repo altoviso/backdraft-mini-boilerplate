@@ -1,0 +1,16 @@
+{
+  "name": "backdraft-mini-boilerplate",
+  "version": "1.0.0",
+  "description": "minimal backdraft app with minimal Express server",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "bd-core": "^2.1.0",
+    "express": "^4.16.3",
+    "morgan": "^1.9.0"
+  }
+}
